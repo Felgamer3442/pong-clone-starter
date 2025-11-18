@@ -7,4 +7,4 @@ hspeed = -hspeed;
 speed = speed * 1.05;
 
 // Play the bounce sound effect.
-//audio_play_sound(sfx_boop, 1, false);
+audio_play_sound(sfx_boop, 1, false);

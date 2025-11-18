@@ -11,5 +11,5 @@ while (place_meeting(x, y, other)) {
 vspeed = -vspeed; 
 
 // Play the bounce sound effect.
-//audio_play_sound(sfx_boop, 1, false);
+audio_play_sound(sfx_boop, 1, false);
 //dio_play_sound(sfx_boop, 1, false);
